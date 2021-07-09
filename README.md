@@ -1,3 +1,3 @@
 # Arm-Processor
 
-A pipe-lined MIPS processor with forwarding and hazard detection.
+A pipe-lined ARM processor with forwarding, hazard detection, sram and cache.
